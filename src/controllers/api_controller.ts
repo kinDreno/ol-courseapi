@@ -7,7 +7,7 @@ const rawData = fs.readFileSync(dataPath, "utf-8");
 const topicsData = JSON.parse(rawData);
 
 const apiController = {
-    getAllTopics: (req: Request, res: Response) => {
+    getAllTopics: (_: unknown, res: Response) => {
         res.json(topicsData);
     },
 
