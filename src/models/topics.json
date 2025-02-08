@@ -1,0 +1,62 @@
+{
+    "topics": [
+        {
+            "name": "Algorithms",
+            "category": "Computer Science",
+            "levels": {
+                "beginner": [
+                    {
+                        "title": "Introduction to Algorithms",
+                        "type": "Book",
+                        "platform": "MIT Press",
+                        "description": "Classic book covering fundamental algorithms.",
+                        "link": "https://mitpress.mit.edu/books/introduction-algorithms-third-edition"
+                    },
+                    {
+                        "title": "Algorithms",
+                        "type": "Course",
+                        "platform": "Coursera",
+                        "description": "Course covering algorithms and data structures.",
+                        "link": "https://www.coursera.org/learn/algorithms-part1"
+                    },
+                    {
+                        "title": "Algorithms",
+                        "type": "Course",
+                        "platform": "Coursera",
+                        "description": "Course covering algorithms and data structures.",
+                        "link": "https://www.coursera.org/learn/algorithms-part2"
+                    },
+                    {
+                        "title": "Algorithms",
+                        "type": "Course",
+                        "platform": "Khan Academy",
+                        "description": "Course covering algorithms.",
+                        "link": "https://www.khanacademy.org/computing/computer-science/algorithms"
+                    },
+                    {
+                        "title": "Algorithms",
+                        "type": "Course",
+                        "platform": "Udacity",
+                        "description": "Course covering algorithms.",
+                        "link": "https://www.udacity.com/course/intro-to-algorithms--cs215"
+                    },
+                    {
+                        "title": "Algorithms",
+                        "type": "Course",
+                        "platform": "edX",
+                        "description": "Course covering algorithms.",
+                        "link": "https://www.edx.org/course/algorithms"
+                    },
+                    {
+                        "title": "Algorithms Specialization",
+                        "type": "Course",
+                        "platform": "Coursera",
+                        "description": "Specialization covering algorithms and data structures.",
+                        "link": "https://www.coursera.org/specializations/algorithms"
+                    }
+                ]
+            }
+        }
+    ],
+    "_comment": "End of Algorithms"
+}
