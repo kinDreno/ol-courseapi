@@ -1,0 +1,239 @@
+{
+  "topics": [
+    {
+      "name": "Algorithms",
+      "category": "Computer Science",
+      "levels": {
+        "beginner": [
+          {
+            "id": "algorithms-mitpress-001",
+            "title": "Introduction to Algorithms, third edition",
+            "type": "Book",
+            "platform": "MIT Press",
+            "description": "Introduction to Algorithms uniquely combines rigor and comprehensiveness. The book covers a broad range of algorithms in depth, yet makes their design and analysis accessible to all levels of readers. Each chapter is relatively self-contained and can be used as a unit of study. The algorithms are described in English and in a pseudocode designed to be readable by anyone who has done a little programming. The explanations have been kept elementary without sacrificing depth of coverage or mathematical rigor.",
+            "link": "https://mitpress.mit.edu/books/introduction-algorithms-third-edition",
+            "topics-covered": [
+              "Algorithms",
+              "Data Structures",
+              "Sorting",
+              "Searching",
+              "Graphs",
+              "Strings"
+            ],
+            "duration": "1 year",
+            "price": "Free"
+          },
+          {
+            "id": "algorithms-coursera-001",
+            "title": "Algorithms, Part I",
+            "type": "Course",
+            "platform": "Coursera",
+            "description": "This course covers the essential information that every serious programmer needs to know about algorithms and data structures, with emphasis on applications and scientific performance analysis of Java implementations. Part I covers elementary data structures, sorting, and searching algorithms. Part II focuses on graph- and string-processing algorithms.",
+            "link": "https://www.coursera.org/learn/algorithms-part1",
+            "topics-covered": [
+              "Algorithms",
+              "Data Structures",
+              "Sorting",
+              "Searching"
+            ],
+            "duration": "6 weeks",
+            "price": "Free"
+          },
+          {
+            "id": "algorithms-coursera-002",
+            "title": "Algorithms, Part II",
+            "type": "Course",
+            "platform": "Coursera",
+            "description": "This course covers the essential information that every serious programmer needs to know about algorithms and data structures, with emphasis on applications and scientific performance analysis of Java implementations. Part I covers elementary data structures, sorting, and searching algorithms. Part II focuses on graph- and string-processing algorithms.",
+            "link": "https://www.coursera.org/learn/algorithms-part2",
+            "topics-covered": [
+              "Algorithms",
+              "Data Structures",
+              "Graphs",
+              "Strings",
+              "Linear Programming",
+              "Regular Expressions"
+            ],
+            "duration": "6 weeks",
+            "price": "Free"
+          },
+          {
+            "id": "datastructures-khanacademy-001",
+            "title": "Data Structures",
+            "platform": "Khan Academy",
+            "description": "Learn about linked lists, trees, and graphs with interactive visualizations.",
+            "link": "https://www.khanacademy.org/computing/computer-science/algorithms",
+            "topics-covered": [
+              "Algorithms",
+              "Data Structures",
+              "Linked Lists",
+              "Trees",
+              "Graphs"
+            ],
+            "duration": "6 months",
+            "price": "Free"
+          },
+          {
+            "id": "algorithms-udacity-001",
+            "title": "Intro to Algorithms",
+            "type": "Course",
+            "platform": "Udacity",
+            "description": "This class will give you an introduction to the design and analysis of algorithms, enabling you to analyze networks and discover how individuals are connected.",
+            "link": "https://www.udacity.com/course/intro-to-algorithms--cs215",
+            "topics-covered": [
+              "Algorithms",
+              "Data Structures",
+              "Graphs",
+              "Networks"
+            ],
+            "duration": "4 weeks",
+            "price": "Free"
+          },
+          {
+            "id": "algorithms-edx-001",
+            "title": "IITBombayX: Algorithms",
+            "type": "Course",
+            "platform": "edX",
+            "description": "Learn how to structure and use algorithms to solve real life problems.",
+            "topics-covered": [
+              "Algorithms",
+              "Data Structures",
+              "Problem Solving"
+            ],
+            "link": "https://www.edx.org/course/algorithms",
+            "duration": "6 weeks",
+            "price": "Free"
+          },
+          {
+            "id": "algorithms-coursera-003",
+            "title": "Algorithms Specialization",
+            "type": "Course",
+            "platform": "Coursera",
+            "description": "Learn To Think Like A Computer Scientist. Master the fundamentals of the design and analysis of algorithms.",
+            "link": "https://www.coursera.org/specializations/algorithms",
+            "topics-covered": [
+              "Algorithms",
+              "Data Structures",
+              "Sorting",
+              "Searching",
+              "Graphs",
+              "Strings"
+            ],
+            "duration": "6 months",
+            "price": "Free"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Data Structures",
+      "category": "Computer Science",
+      "levels": {
+        "beginner": [
+          {
+            "id": "datastructures-mitpress-001",
+            "title": "Data Structures",
+            "type": "Course",
+            "platform": "Coursera",
+            "description": "Course covering data structures.",
+            "link": "https://www.coursera.org/learn/data-structures",
+            "topics-covered": [
+              "Basic Data Structures",
+              "Arrays",
+              "Binary Search Trees",
+              "Hash Tables"
+            ],
+            "duration": "6 weeks",
+            "price": "Free"
+          },
+          {
+            "id": "datastructures-mitpress-002",
+            "title": "Data Structures",
+            "type": "Course",
+            "platform": "Khan Academy",
+            "description": "Course covering data structures.",
+            "link": "https://www.khanacademy.org/computing/computer-science/algorithms",
+            "topics-covered": [
+              "Data Structures",
+              "Arrays",
+              "Recursive Algorithms",
+              "Asymptotic notation"
+            ],
+            "duration": "1 year",
+            "price": "Free"
+          },
+          {
+            "id": "datastructures-mitpress-003",
+            "title": "Data Structures & Algorithms in Python",
+            "type": "Course",
+            "platform": "Udacity",
+            "description": "Learn the skills technical interviewers expect you to know—efficiency, common algorithms, manipulating popular data structures, and how to explain a solution.",
+            "link": "https://www.udacity.com/course/data-structures-and-algorithms--ud513",
+            "topics-covered": ["Data Structures", "Algorithms", "Python"],
+            "duration": "4 weeks",
+            "price": "Free"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Web Development",
+      "category": "Computer Science",
+      "levels": {
+        "beginner": [
+          {
+            "id": "webdevelopment-khanacademy-001",
+            "title": "Intro to HTML/CSS: Making webpages",
+            "type": "Course",
+            "platform": "Khan Academy",
+            "description": "Learn how to use HTML and CSS to make webpages. HTML is the markup language that you surround content with, to tell browsers about headings, lists, tables, and more. CSS is the stylesheet language that you style the page with, to tell browsers to change the color, font, layout, and more.",
+            "link": "https://www.khanacademy.org/computing/computer-programming/html-css",
+            "topics-covered": [
+              "HTML",
+              "CSS",
+              "CSS Styling",
+              "Basic HTML Structure"
+            ],
+            "duration": "5 months",
+            "price": "Free"
+          },
+          {
+            "id": "webdevelopment-udacity-001",
+            "title": "Intro to HTML and CSS",
+            "type": "Course",
+            "platform": "Udacity",
+            "description": "Learn how to convert digital design mockups into static web pages and how to build a responsive portfolio site to showcase your work.",
+            "link": "https://www.udacity.com/course/intro-to-html-and-css--ud304",
+            "topics-covered": [
+              "HTML",
+              "CSS",
+              "Responsive Design",
+              "Web Development"
+            ],
+            "duration": "4 weeks",
+            "price": "Free"
+          }
+        ],
+        "intermediate": [
+          {
+            "id": "webdevelopment-udacity-002",
+            "title": "Full Stack Web Developer Nanodegree",
+            "type": "Course",
+            "platform": "Udacity",
+            "description": "Learn how to create server-side, data-driven web applications that support any front-end and can scale to support hundreds of thousands of users.",
+            "link": "https://www.udacity.com/course/full-stack-web-developer-nanodegree--nd004",
+            "topics-covered": [
+              "Web Development",
+              "Full Stack",
+              "Front-End",
+              "Back-End"
+            ],
+            "duration": "4 months",
+            "price": "Free"
+          }
+        ]
+      }
+    }
+  ],
+  "_comment": "Add more topics here"
+}
