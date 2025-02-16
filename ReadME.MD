@@ -21,11 +21,11 @@ This is a public API designed to provide structured learning paths based on diff
 ## Installation & Setup
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/public-api-learning-paths.git
+   git clone https://github.com/kinDreno/ol-courseapi
    ```
 2. Navigate to the project directory:
    ```sh
-   cd public-api-learning-paths
+   cd your-directory
    ```
 3. Install dependencies using `pnpm`:
    ```sh
@@ -33,7 +33,7 @@ This is a public API designed to provide structured learning paths based on diff
    ```
 4. Start the server:
    ```sh
-   pnpm start
+   pnpm run dev
    ```
 
 ## API Endpoints
