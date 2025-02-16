@@ -3,7 +3,7 @@
 This is a public API designed to provide structured learning paths based on different topics. It helps users explore various resources categorized by subjects, levels, and platforms.
 
 ## Features
-- Provides structured learning paths for topics such as **Algorithms, Data Structures, and Web Development, and more!**.
+- Provides structured learning paths for topics such as **Algorithms, Data Structures, and Web Development, and more!**
 - Categorizes resources by **beginner, intermediate, and advanced levels**.
 - Supports multiple platforms, including **MIT Press, Coursera, Udacity, edX, and Khan Academy**.
 - Includes metadata like **topics covered, duration, and price**.
@@ -89,3 +89,4 @@ We welcome contributions from the community! To contribute:
 ## License
 This project is open-source and available under the [MIT License](LICENSE).
 
+Thank you!
