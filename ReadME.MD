@@ -21,7 +21,7 @@ This is a public API designed to provide structured learning paths based on diff
 ## Installation & Setup
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/public-api-learning-paths.git
+   git clone https://github.com/kinDreno/ol-courseapi.git
    ```
 2. Navigate to the project directory:
    ```sh
